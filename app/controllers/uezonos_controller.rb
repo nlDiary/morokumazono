@@ -1,0 +1,2 @@
+class UezonosController < ApplicationController
+end

@@ -10,6 +10,9 @@
 #
 # It's strongly recommended that you check this file into your version control system.
 
+ActiveRecord::Schema.define(version: 20170507061107) do
+
+  create_table "uezonos", force: :cascade do |t|
 ActiveRecord::Schema.define(version: 20170507060636) do
 
   create_table "posts", force: :cascade do |t|
