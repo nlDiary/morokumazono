@@ -1,0 +1,2 @@
+class Moro < ApplicationRecord
+end
