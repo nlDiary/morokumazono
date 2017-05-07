@@ -1,0 +1,2 @@
+class Uezono < ApplicationRecord
+end
